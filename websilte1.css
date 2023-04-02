@@ -1,0 +1,9 @@
+.bra{text-transform: capitalize;text-align: center;}
+.one{text-transform: uppercase;}
+body{background-color: #DFFFD8;}
+#one{background-color: #C9EEFF;}
+hr{color: white; border-style: dotted;width: 20%;border-style: none;border-top-style:dotted ;border-width: 5px;}
+h1{color:#7DB9B6;}
+h2{color: #95BDFF;}
+h3{color: #95BDFF;}
+a:hover{color:goldenrod}
